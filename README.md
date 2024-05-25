@@ -6,6 +6,9 @@ PASSWORD
 =========================================================================
 JOIN WWS VIP FOR PASSWORD
 
+ORIGINAL PRICE: $1.5K
+VIP PRICE: $150
+
 WARNING
 =========================================================================
 NO VIP MEMBER IS ALLOWED TO LEAK SOURCE CODE OR SHARE TO ANYONE,THIS WOULD RESULT IN A MAJOR REVOKING OF ALL MEMBERS MEMBERSHIP TO CHANNEL AND A FINE OF $50 OF ALL MEMBERS
