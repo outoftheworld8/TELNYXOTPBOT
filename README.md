@@ -4,6 +4,9 @@ TELEGRAM CHANNEL
 =========================================================================
 https://t.me/wwsspam
 
+SETUP VIDEO
+https://youtu.be/h1eu6oXPhGM
+
 PASSWORD
 =========================================================================
 JOIN WWS VIP FOR PASSWORD
